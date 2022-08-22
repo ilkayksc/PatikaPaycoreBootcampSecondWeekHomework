@@ -1,6 +1,6 @@
-# IlkayKesici_HW1
-Patika Dev Paycore .Net Bootcamp Homework
+# Patika Dev Paycore .Net Second Week Homework
 
+This project that takes personnel information and performs crud operations.
 
 ## Results
 
